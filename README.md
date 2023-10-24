@@ -5,7 +5,11 @@ Hi there 👋 I am a student of eastern philosophy, a traveller and craftsman. C
 I write about travels, technology and readings on philosophy, papers etc. at <https://codito.in>.
 
 <!-- feed start -->
-
+- Oct 24 - [Platforms are inevitable](https://codito.in/platform-is-inevitable/)
+- Sep 30 - [Lessons in customer validation](https://codito.in/customer-validation-for-signups/)
+- Sep 24 - [Language models in signup](https://codito.in/llms-in-signup/)
+- Sep 16 - [Fixing product signups](https://codito.in/fixing-product-signups/)
+- Sep 03 - [Understanding product signups](https://codito.in/understanding-product-signups/)
 <!-- feed end -->
 
 ### Past life
