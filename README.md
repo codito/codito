@@ -7,11 +7,11 @@ I use i3, tmux, zsh on Arch Linux (see [dotfiles](https://github.com/codito/dotf
 I write about travels, technology and readings on philosophy, papers etc. at <https://codito.in>.
 
 <!-- feed start -->
+- Jan 07 - [Decisive (Chip & Dan Heath, 2013)](https://codito.in/notes/decisive-by-chip-heath/)
 - Dec 25 - [My reading workflow](https://codito.in/my-reading-workflow/)
 - Dec 06 - [Wiki, memos and a vault](https://codito.in/wiki-memos-and-a-vault/)
 - Nov 26 - [A new look for this site](https://codito.in/2023-site-updates/)
 - Nov 26 - [Short trip to Visakhapatnam](https://codito.in/short-trip-to-vizag/)
-- Oct 24 - [Platforms are inevitable](https://codito.in/platform-is-inevitable/)
 <!-- feed end -->
 
 ### Past life
