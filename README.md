@@ -1,4 +1,4 @@
-Hi there 👋 I use i3, tmux, zsh on Arch Linux (see [dotfiles](https://github.com/codito/dotfiles)) and neovim (see [config](https://github.com/codito/vim-config)).
+Hi there 👋 I'm currently learning AI & NLP in the context of local-first smaller language models (see [arey](https://github.com/codito/arey) and [projects](https://codito.in/projects/)).
 
 ### Latest posts
 
@@ -13,3 +13,5 @@ Hi there 👋 I use i3, tmux, zsh on Arch Linux (see [dotfiles](https://github.c
 ### Past life
 
 A lot of Chess ♟️, 🚀 Founding team @ [@microsoft/vstest](https://github.com/microsoft/vstest), 🌱 Created [@gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro).
+
+More [about me](https://codito.in/about).
