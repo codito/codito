@@ -3,11 +3,11 @@ Hi there 👋 I'm currently learning AI & NLP in the context of local-first smal
 ### Latest posts
 
 <!-- feed start -->
+- Feb 24 - [Tools and agents](https://codito.in/tools-and-agents/)
 - Jan 26 - [Year in review - 2023](https://codito.in/year-in-review-2023/)
 - Jan 07 - [A Philosophy of Software Design (John Ousterhout, 2018)](https://codito.in/notes/philosophy-of-software-design-ousterhout/)
 - Jan 07 - [Decisive (Chip & Dan Heath, 2013)](https://codito.in/notes/decisive-by-chip-heath/)
 - Dec 25 - [My reading workflow](https://codito.in/my-reading-workflow/)
-- Dec 06 - [Wiki, memos and a vault](https://codito.in/wiki-memos-and-a-vault/)
 <!-- feed end -->
 
 ### Past life
