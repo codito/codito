@@ -20,6 +20,7 @@ jobs:
             https://codito.in/feeds/all.rss
           file: 'README.md'
           timezone: 'Asia/Kolkata'
+          format: '- ${monthshort} ${year} - [${title}](${url})'
           ensure_all: true
       - name: push to master
         if: steps.feed.outputs.changed == true
