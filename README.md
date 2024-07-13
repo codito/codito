@@ -3,11 +3,11 @@ Hi there 👋 I'm currently learning AI & NLP in the context of local-first smal
 ### Latest posts
 
 <!-- feed start -->
-- Jul 2024 - [Building AI apps](https://codito.in/building-ai-apps/)
-- Jun 2024 - [Outside and inside models](https://codito.in/outside-and-inside-views/)
-- May 2024 - [Problems or solutions](https://codito.in/problems-or-solutions/)
-- Apr 2024 - [Notes on refactoring a frontend app](https://codito.in/frontend-refactoring-notes/)
-- Mar 2024 - [Transcribe podcasts for notes](https://codito.in/transcribe-podcasts-with-whisper/)
+- [Building AI apps](https://codito.in/building-ai-apps/)
+- [Outside and inside models](https://codito.in/outside-and-inside-views/)
+- [Problems or solutions](https://codito.in/problems-or-solutions/)
+- [Notes on refactoring a frontend app](https://codito.in/frontend-refactoring-notes/)
+- [Transcribe podcasts for notes](https://codito.in/transcribe-podcasts-with-whisper/)
 <!-- feed end -->
 
 ### Past life
