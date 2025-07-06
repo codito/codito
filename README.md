@@ -12,6 +12,6 @@ Hi there 👋 I'm currently learning AI & NLP in the context of local-first smal
 
 ### Past life
 
-A lot of Chess ♟️, 🚀 Founding team @ [@microsoft/vstest](https://github.com/microsoft/vstest), 🌱 Created [@gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro).
+A lot of Chess ♟️, 🚀 Founding team [@microsoft/vstest](https://github.com/microsoft/vstest), 🌱 Created [@gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro).
 
 More [about me](https://codito.in/about).
