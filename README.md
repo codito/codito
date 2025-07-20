@@ -1,6 +1,6 @@
 Hi there 👋 I'm currently learning AI & NLP in the context of local-first smaller language models (see [arey](https://github.com/codito/arey) and [projects](https://codito.in/projects/)).
 
-### Latest posts
+### Latest posts ([all articles](https://codito.in/archives/))
 
 <!-- feed start -->
 - [What problems to solve](https://codito.in/notes/what-problems-to-solve/)
