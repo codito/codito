@@ -3,11 +3,11 @@ Hi there 👋 I'm currently learning AI & NLP in the context of local-first smal
 ### Latest posts ([all articles](https://codito.in/archives/))
 
 <!-- feed start -->
+- [XMF released](https://codito.in/xmf-fund-tracker/)
 - [Pomodoro in Polybar and i3](https://codito.in/pomodoro-in-polybar-i3-archlinux/)
 - [What problems to solve](https://codito.in/what-problems-to-solve/)
 - [An agent for that](https://codito.in/an-agent-for-that/)
 - [Year in review - 2024](https://codito.in/year-in-review-2024/)
-- [Release please](https://codito.in/release-please/)
 <!-- feed end -->
 
 ### Past life
